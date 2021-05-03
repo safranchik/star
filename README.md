@@ -1,8 +1,6 @@
 # STAR
 Welcome to the official page for the STAR dataset (_Science Topic Analysis on Reddit_), a modular dataset for unsupervised, semi-supervised, weakly supervised and inter-supervised learning.
 
-## Overview
-
 ## Class Labels
 STAR is a dataset of summaries of scientific discoveries, scraped from posts titles with at least 100 upvotes from the subreddit [r/science](https://www.reddit.com/r/science/). The posts are annotated with 4 coarse and 20 fine-graned topic labels from the 20 most common topic flairs:
 
