@@ -1,0 +1,22 @@
+{
+  "animal science": 1,
+  "anthropology": 2,
+  "astronomy": 0,
+  "biology": 1,
+  "cancer": 1,
+  "chemistry": 0,
+  "computer science": 3,
+  "earth science": 0,
+  "engineering": 3,
+  "environment": 0,
+  "epidemiology": 3,
+  "geology": 0,
+  "health": 3,
+  "medicine": 3,
+  "nanoscience": 3,
+  "neuroscience": 1,
+  "paleontology": 1,
+  "physics": 0,
+  "psychology": 2,
+  "social science": 2
+}
